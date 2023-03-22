@@ -1,2 +1,2 @@
 # Amber-India-Optimization-of-decisions
-The goal is to maximize Amber’s profits from sales
+Amber India restaurants are award-winning restaurants with five locations across the San Francisco Bay Area at San Jose, Mountain View, Los Altos, Milpitas, and San Francisco. In addition to classical Indian cuisine, the restaurants also serve contemporary dishes. They offer a unique and innovative culinary experience at Amber's award-winning restaurants.Amber has recently faced quite a reduced number of customers due to the Corona pandemic. The  goal is to maximize Amber’s profits from sales.
